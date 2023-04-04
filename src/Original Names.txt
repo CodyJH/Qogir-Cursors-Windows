@@ -1,0 +1,17 @@
+Current Name	Original Name
+
+alternate.svg	center_ptr.svg
+busy-**.svg		wait-**.svg
+handwriting.svg	pencil.svg
+help.svg		help.svg
+link.svg		pointer.svg
+move.svg		fleur.svg
+normal.svg		default.svg
+precision.svg	crosshair.svg
+size_diag1.svg	size_fdiag.svg
+size_diag2.svg	size_bdiag.svg
+size_hor.svg	size_hor.svg
+size_ver.svg	size_ver.svg
+text.svg		text.svg
+unavailable.svg	not-allowed.svg
+working-**.svg	progress-**.svg
